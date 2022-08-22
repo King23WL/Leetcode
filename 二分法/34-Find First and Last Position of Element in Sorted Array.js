@@ -56,3 +56,5 @@ function binary_search(arr, key, findMaxIndex) {
 
   return keyIndex;
 }
+
+// O logn
